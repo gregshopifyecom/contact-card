@@ -14,6 +14,7 @@ export function CallingCard() {
           <h1 className="text-balance text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">
             Gregory Salazar
           </h1>
+          <p className="text-base font-medium text-foreground">Now on GitHub</p>
         </header>
 
         <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
